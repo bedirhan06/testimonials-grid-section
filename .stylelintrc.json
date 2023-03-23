@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-standard-scss", "stylelint-config-clean-order"],
+  "rules": {
+    "hue-degree-notation": "number",
+    "color-function-notation": "legacy"
+  }
+}
